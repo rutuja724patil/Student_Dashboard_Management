@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #1a202c; /* A deep dark gray/nearly black background */
+  color: #e2e8f0; /* Light gray for default text */
+  font-family: 'Inter', sans-serif; /* Example font, adjust as needed */
+}
